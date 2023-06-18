@@ -25,7 +25,7 @@ Key Binding: The root.bind("<KeyRelease>", print_event) line binds the <KeyRelea
 
 ![image](https://github.com/IvanVakov/GUI-Shop/assets/119103300/fc0a1d3a-3a0b-4f8f-9284-84ad3932ad16)
 
-![image](https://github.com/IvanVakov/GUI-Shop/assets/119103300/49aa3ff5-38b7-4e6a-9b21-3fbac69bcd55
+![image](https://github.com/IvanVakov/GUI-Shop/assets/119103300/49aa3ff5-38b7-4e6a-9b21-3fbac69bcd55)
 
 ![image](https://github.com/IvanVakov/GUI-Shop/assets/119103300/903e97ca-1a6e-4d32-9a76-81be1dae8204)
 
